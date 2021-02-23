@@ -1,2 +1,4 @@
 Step 1: Crear fitxer de text
 Step 2: Revisar i modificar fitxer
+Step 2: Modificar fitxer
+
